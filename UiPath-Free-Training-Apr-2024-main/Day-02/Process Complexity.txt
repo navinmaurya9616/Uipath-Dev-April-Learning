@@ -1,0 +1,34 @@
+Loan applications :- banking domain 
+
+volume :- 500 applications 
+AHT :- 10 mins 
+
+1hr- 6 applications 
+8hrs -50 applications 
+how many persons ????? - 10 persons - 1 lakh/yr -  10lakhs on ur business 
+ 
+
+How many bots are required to complete a process ??
+
+Vol :- 50 app 
+aht :- 5 mins 
+
+1 hr :- 12 app 
+8 hr :- 100 app 
+
+5bots 
+
+4hr - 125 app  - 4 bots 
+24 hrs - ????- 1 bot 
+
+how many bots ?? - 500 app ??? 2 bots - 20 lakhs -- 40 lakhs  
+
+Process complexity :-
+
+no of steps in the process     --> <8 - 8-15 - >15 
+no of app in the process       --> <5 - 5-8  - >8 
+no of screens in the app       --> <10 -10-15 - >15 
+no of fields in the screens    --> <25 - 25-40 - >40
+AHT                            --> <5  - 5-10 - >10
+
+
